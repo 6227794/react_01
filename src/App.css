@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+#s1{
+  color: rgb(201, 33, 125);
+}
+#s2{
+  color: rgb(238, 16, 16);
+}
